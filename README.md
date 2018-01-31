@@ -16,5 +16,5 @@ Have a look at performance test in reference section.
 # References
 - https://httpstatuses.com/422
 - https://github.com/julienschmidt/go-http-routing-benchmark
-- (Goji)[https://goji.io/]
-- http://www.gorillatoolkit.org/
+- [Goji](https://goji.io/)
+- [Gorilla Toolkit](http://www.gorillatoolkit.org/)
